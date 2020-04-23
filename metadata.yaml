@@ -1,6 +1,9 @@
 _repo: Bashful-Fifteen_61857
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Bashful 15
+covers:
+- cover_type: archival
+  image_path: 61857-h/images/cover.jpg
 creator:
   author:
     agent_name: Meade, L. T.
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1621
     wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61857#Bashful-Fifteen
 gutenberg_issued: '2020-04-17'
 gutenberg_type: Text
 identifiers:
