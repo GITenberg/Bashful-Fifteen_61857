@@ -1,0 +1,42 @@
+_repo: Bashful-Fifteen_61857
+_version: 0.0.1
+alternative_title: Bashful 15
+creator:
+  author:
+    agent_name: Meade, L. T.
+    aliases:
+    - Mead, L. T.
+    - Thomas, Elizabeth
+    - Smith, Elizabeth Thomasina Meade
+    - Meade, Mrs. L. T.
+    - Meade, Elizabeth Thomasina
+    - Meade, Lillie
+    birthdate: 1854
+    deathdate: 1914
+    gutenberg_agent_id: '1621'
+    url: http://www.gutenberg.org/2009/agents/1621
+    wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
+description: ''
+gutenberg_issued: '2020-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61857'
+  lccn: 08009638
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Rescues -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'Cats -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Bashful Fifteen
+url: http://www.gutenberg.org/ebooks/61857
